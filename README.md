@@ -80,7 +80,7 @@
        <img src="https://img.shields.io/badge/React Native-orange" /> 
        <img src="https://img.shields.io/badge/Flutter-orange" /> 
        <img src="https://img.shields.io/badge/Swift-orange" /> 
-       <img src="https://img.shields.io/badge/Object-C-orange" /> 
+       <img src="https://img.shields.io/badge/Object C-orange" /> 
        <img src="https://img.shields.io/badge/Kotlin-orange" /> 
        <img src="https://img.shields.io/badge/Java-orange" /> 
        <img src="https://img.shields.io/badge/Android-orange" />
